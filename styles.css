@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Content Rights Tool Mockup</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Netflix Content Rights Tool</h1>
+    </header>
+
+    <main>
+        <section class="content">
+            <h2>Content Rights Management</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Content Title</th>
+                        <th>License Start Date</th>
+                        <th>License End Date</th>
+                        <th>Geographic Restrictions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Movie A</td>
+                        <td>2023-08-01</td>
+                        <td>2025-07-31</td>
+                        <td>United States, Canada</td>
+                    </tr>
+                    <tr>
+                        <td>TV Show B</td>
+                        <td>2022-11-15</td>
+                        <td>2024-11-14</td>
+                        <td>Worldwide</td>
+                    </tr>
+                    <!-- Add more content entries here -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Netflix Enterprise XD Team. All rights reserved.</p>
+    </footer>
+</body>
+</html>
